@@ -1,0 +1,14 @@
+C:\Users\iron.sales\OneDrive - CONTROLLER BMS\Área de Trabalho\Nova pasta\Exercícios\bin\Debug\net10.0\Exercícios.exe
+C:\Users\iron.sales\OneDrive - CONTROLLER BMS\Área de Trabalho\Nova pasta\Exercícios\bin\Debug\net10.0\Exercícios.deps.json
+C:\Users\iron.sales\OneDrive - CONTROLLER BMS\Área de Trabalho\Nova pasta\Exercícios\bin\Debug\net10.0\Exercícios.runtimeconfig.json
+C:\Users\iron.sales\OneDrive - CONTROLLER BMS\Área de Trabalho\Nova pasta\Exercícios\bin\Debug\net10.0\Exercícios.dll
+C:\Users\iron.sales\OneDrive - CONTROLLER BMS\Área de Trabalho\Nova pasta\Exercícios\bin\Debug\net10.0\Exercícios.pdb
+C:\Users\iron.sales\OneDrive - CONTROLLER BMS\Área de Trabalho\Nova pasta\Exercícios\obj\Debug\net10.0\Exercícios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iron.sales\OneDrive - CONTROLLER BMS\Área de Trabalho\Nova pasta\Exercícios\obj\Debug\net10.0\Exercícios.AssemblyInfoInputs.cache
+C:\Users\iron.sales\OneDrive - CONTROLLER BMS\Área de Trabalho\Nova pasta\Exercícios\obj\Debug\net10.0\Exercícios.AssemblyInfo.cs
+C:\Users\iron.sales\OneDrive - CONTROLLER BMS\Área de Trabalho\Nova pasta\Exercícios\obj\Debug\net10.0\Exercícios.csproj.CoreCompileInputs.cache
+C:\Users\iron.sales\OneDrive - CONTROLLER BMS\Área de Trabalho\Nova pasta\Exercícios\obj\Debug\net10.0\Exercícios.dll
+C:\Users\iron.sales\OneDrive - CONTROLLER BMS\Área de Trabalho\Nova pasta\Exercícios\obj\Debug\net10.0\refint\Exercícios.dll
+C:\Users\iron.sales\OneDrive - CONTROLLER BMS\Área de Trabalho\Nova pasta\Exercícios\obj\Debug\net10.0\Exercícios.pdb
+C:\Users\iron.sales\OneDrive - CONTROLLER BMS\Área de Trabalho\Nova pasta\Exercícios\obj\Debug\net10.0\Exercícios.genruntimeconfig.cache
+C:\Users\iron.sales\OneDrive - CONTROLLER BMS\Área de Trabalho\Nova pasta\Exercícios\obj\Debug\net10.0\ref\Exercícios.dll
