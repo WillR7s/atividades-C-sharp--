@@ -148,36 +148,148 @@
 
 
 
-Console.WriteLine("Digite a primeira nota:");
-string? valor1 = Console.ReadLine();
-decimal Nota1 = decimal.Parse(valor1!);
+// Console.WriteLine("Digite a primeira nota:");
+// string? valor1 = Console.ReadLine();
+// decimal Nota1 = decimal.Parse(valor1!);
 
-Console.WriteLine("Digite a segunda nota:");
-string? valor2 = Console.ReadLine();
-decimal Nota2 = decimal.Parse(valor2!);
+// Console.WriteLine("Digite a segunda nota:");
+// string? valor2 = Console.ReadLine();
+// decimal Nota2 = decimal.Parse(valor2!);
 
-Console.WriteLine("Digite a terceira nota:");
-string? valor3 = Console.ReadLine();
-decimal Nota3 = decimal.Parse(valor3!);
+// Console.WriteLine("Digite a terceira nota:");
+// string? valor3 = Console.ReadLine();
+// decimal Nota3 = decimal.Parse(valor3!);
 
 
 
-decimal[] Notas = {Nota1, Nota2, Nota3};
-decimal Media = ((Nota1 + Nota2 + Nota3)/3);
+// decimal[] Notas = {Nota1, Nota2, Nota3};
+// decimal Media = ((Nota1 + Nota2 + Nota3)/3);
 
-for (int i = 0; i < Notas.Length; i++)
-{
-  Console.WriteLine(Notas[i]);
-}
+// for (int i = 0; i < Notas.Length; i++)
+// {
+//   Console.WriteLine(Notas[i]);
+// }
 
-decimal somaNotas = 0;
+// decimal somaNotas = 0;
 
-foreach (decimal nota in Notas)
-{
-    somaNotas += nota; 
+// foreach (decimal nota in Notas)
+// {
+//     somaNotas += nota; 
     
+// }
+
+// decimal mediaCalculada = somaNotas / Notas.Length;
+
+// Console.WriteLine($"Média: {mediaCalculada:F2}");
+
+
+
+//Exercício 8 -Crie um programa que receba cinco números inteiros
+//  e armazene-os em um array.
+
+// Console.WriteLine("Digite Cinco Numeros Inteiros para armazena-los.");
+// Console.WriteLine("Digite o Primeiro Numero:");
+// string? Valor1 = Console.ReadLine();
+// int Numero1 = int.Parse(Valor1!);
+
+// Console.WriteLine("Digite o Segundo Numero:");
+// string? Valor2 = Console.ReadLine();
+// int Numero2 = int.Parse(Valor2!);
+
+// Console.WriteLine("Digite o Terceiro Numero:");
+// string? Valor3 = Console.ReadLine();
+// int Numero3 = int.Parse(Valor3!);
+
+// Console.WriteLine("Digite o Quarto Numero:");
+// string? Valor4 = Console.ReadLine();
+// int Numero4 = int.Parse(Valor4!);
+
+// Console.WriteLine("Digite o Quinto Numero:");
+// string? Valor5 = Console.ReadLine();
+// int Numero5 = int.Parse(Valor5!);
+
+// int[] Numeros = {Numero1,Numero2,Numero3,Numero4,Numero5};
+
+// // Exibindo todos os números digitados
+// Console.WriteLine("\nNumeros digitados:");
+// foreach (var n in Numeros)
+// {
+//     Console.WriteLine(n);
+// }
+
+// // Contagem de pares e identificação do maior número
+// int pares = 0;
+// int maiorNumero = Numeros[0];
+
+// foreach (var n in Numeros)
+// {
+//     // Verifica cada número individualmente dentro do loop
+//     if (n % 2 == 0)
+//     {
+//         pares++;
+//     }
+
+//     if (n > maiorNumero)
+//     {
+//         maiorNumero = n;
+//     }
+// }
+
+// // Exibição dos resultados finais fora do loop
+// if (pares > 0)
+// {
+//     Console.WriteLine($"Quantidade de numeros pares: {pares}");
+// }
+// else
+// {
+//     Console.WriteLine("\nNenhum Numero par foi encontrado.");
+// }
+
+// Console.WriteLine($"Maior numero informado: {maiorNumero}");
+
+//Exercício 9 - Crie um programa que permita cadastrar nomes de produtos em uma lista
+//utilizando List<string> .
+
+List<string> produtos = new List<string>();
+
+//CADASTRANDO PRODUTOS
+
+Console.WriteLine("Digite o nome do Produto:");
+string? Produto1 = Console.ReadLine();
+produtos.Add(Produto1!);
+Console.WriteLine($"Produto {Produto1} Cadastrado");
+
+Console.WriteLine("Digite o nome do Produto:");
+string? Produto2 = Console.ReadLine();
+produtos.Add(Produto2!);
+Console.WriteLine($"Produto {Produto2} Cadastrado");
+
+Console.WriteLine("Digite o nome do Produto:");
+string? Produto3 = Console.ReadLine();
+produtos.Add(Produto3!);
+Console.WriteLine($"Produto {Produto3} Cadastrado");
+
+Console.WriteLine("Produtos Cadastrados:");
+foreach (string item in produtos)
+   {
+                  
+  Console.WriteLine($"- {item}");
+   }
+            
+// ENCONTRANDO PRODUTOS
+Console.WriteLine("Digite o Nome Do Produto Que Deseja Buscar:");
+string? busca = Console.ReadLine();
+
+if (produtos.Contains(busca!))
+{
+Console.WriteLine ($"Produto {busca} Encontrado.");
+}
+else
+{
+  Console.WriteLine ($"Produto {busca} Não Encontrado.");
 }
 
-decimal mediaCalculada = somaNotas / Notas.Length;
+//Excluindo produtos
 
-Console.WriteLine($"Média: {mediaCalculada:F2}");
+Console.WriteLine("Digite o nome do produto que deseja excluir:");
+
