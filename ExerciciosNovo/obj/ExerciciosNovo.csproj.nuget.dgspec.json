@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\willr\\OneDrive\\Área de Trabalho\\atividades-C-sharp--\\ExerciciosNovo\\ExerciciosNovo.csproj": {}
+    "C:\\Users\\42504003870\\Desktop\\atividades-C-sharp--\\ExerciciosNovo\\ExerciciosNovo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\willr\\OneDrive\\Área de Trabalho\\atividades-C-sharp--\\ExerciciosNovo\\ExerciciosNovo.csproj": {
+    "C:\\Users\\42504003870\\Desktop\\atividades-C-sharp--\\ExerciciosNovo\\ExerciciosNovo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\willr\\OneDrive\\Área de Trabalho\\atividades-C-sharp--\\ExerciciosNovo\\ExerciciosNovo.csproj",
+        "projectUniqueName": "C:\\Users\\42504003870\\Desktop\\atividades-C-sharp--\\ExerciciosNovo\\ExerciciosNovo.csproj",
         "projectName": "ExerciciosNovo",
-        "projectPath": "C:\\Users\\willr\\OneDrive\\Área de Trabalho\\atividades-C-sharp--\\ExerciciosNovo\\ExerciciosNovo.csproj",
-        "packagesPath": "C:\\Users\\willr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\willr\\OneDrive\\Área de Trabalho\\atividades-C-sharp--\\ExerciciosNovo\\obj\\",
+        "projectPath": "C:\\Users\\42504003870\\Desktop\\atividades-C-sharp--\\ExerciciosNovo\\ExerciciosNovo.csproj",
+        "packagesPath": "C:\\Users\\42504003870\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\42504003870\\Desktop\\atividades-C-sharp--\\ExerciciosNovo\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\willr\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\42504003870\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -61,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.403/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

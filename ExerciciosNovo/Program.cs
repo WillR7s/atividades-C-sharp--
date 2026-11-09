@@ -15,10 +15,31 @@
 
 //Exercício 2- Crie uma classe Calculadora para realizar operações matemáticas.
 
-Calculadora calculadora = new Calculadora();
-calculadora.Numero1 = 30;
-calculadora.Numero2 = 65;
-calculadora.Somar();
-calculadora.Subtrair();
-calculadora.Multiplicar();
-calculadora.Dividir();
+// Calculadora calculadora = new Calculadora();
+// calculadora.Numero1 = 30;
+// calculadora.Numero2 = 65;
+// calculadora.Somar();
+// calculadora.Subtrair();
+// calculadora.Multiplicar();
+// calculadora.Dividir();
+
+
+// Exercício 3 - Crie uma classe Veiculo com uma propriedade pública chamada Velocidade .
+
+// Veiculo carro1 = new Veiculo();
+// carro1.Velocidade = 250;
+// carro1.VerificarVelocidade();
+
+// Exercicio 4 -Crie uma classe Funcionario para representar um funcionário de uma empresa
+
+// Funcionario gerente = new Funcionario();
+// gerente.Nome= "David";
+// gerente.Cargo= "Gerente de Vendas";
+// gerente.Salario = 5500;
+// gerente.Percentual = 5;
+// //gerente.AumentarSalario();
+// gerente.ConsultarSalario();
+
+
+
+// Exercício 5 - Crie uma classe Livro com as propriedades Titulo , Autor e NumeroPaginas .
