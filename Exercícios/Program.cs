@@ -250,84 +250,45 @@
 //Exercício 9 - Crie um programa que permita cadastrar nomes de produtos em uma lista
 //utilizando List<string> .
 
-// List<string> produtos = new List<string>();
+List<string> produtos = new List<string>();
 
-// //CADASTRANDO PRODUTOS
+//CADASTRANDO PRODUTOS
 
-// Console.WriteLine("Digite o nome do Produto:");
-// string? Produto1 = Console.ReadLine();
-// produtos.Add(Produto1!);
-// Console.WriteLine($"Produto {Produto1} Cadastrado");
+Console.WriteLine("Digite o nome do Produto:");
+string? Produto1 = Console.ReadLine();
+produtos.Add(Produto1!);
+Console.WriteLine($"Produto {Produto1} Cadastrado");
 
-// Console.WriteLine("Digite o nome do Produto:");
-// string? Produto2 = Console.ReadLine();
-// produtos.Add(Produto2!);
-// Console.WriteLine($"Produto {Produto2} Cadastrado");
+Console.WriteLine("Digite o nome do Produto:");
+string? Produto2 = Console.ReadLine();
+produtos.Add(Produto2!);
+Console.WriteLine($"Produto {Produto2} Cadastrado");
 
-// Console.WriteLine("Digite o nome do Produto:");
-// string? Produto3 = Console.ReadLine();
-// produtos.Add(Produto3!);
-// Console.WriteLine($"Produto {Produto3} Cadastrado");
+Console.WriteLine("Digite o nome do Produto:");
+string? Produto3 = Console.ReadLine();
+produtos.Add(Produto3!);
+Console.WriteLine($"Produto {Produto3} Cadastrado");
 
-// Console.WriteLine("Produtos Cadastrados:");
-// foreach (string item in produtos)
-//    {
+Console.WriteLine("Produtos Cadastrados:");
+foreach (string item in produtos)
+   {
                   
-//   Console.WriteLine($"- {item}");
-//    }
+  Console.WriteLine($"- {item}");
+   }
             
-// // ENCONTRANDO PRODUTOS
-// Console.WriteLine("Digite o Nome Do Produto Que Deseja Buscar:");
-// string? busca = Console.ReadLine();
+// ENCONTRANDO PRODUTOS
+Console.WriteLine("Digite o Nome Do Produto Que Deseja Buscar:");
+string? busca = Console.ReadLine();
 
-// if (produtos.Contains(busca!))
-// {
-// Console.WriteLine ($"Produto {busca} Encontrado.");
-// }
-// else
-// {
-//   Console.WriteLine ($"Produto {busca} Não Encontrado.");
-// }
+if (produtos.Contains(busca!))
+{
+Console.WriteLine ($"Produto {busca} Encontrado.");
+}
+else
+{
+  Console.WriteLine ($"Produto {busca} Não Encontrado.");
+}
 
-// //Excluindo produtos
+//Excluindo produtos
 
-// Console.WriteLine("Digite o nome do produto que deseja excluir:");
-// string? excluir = Console.ReadLine();
-// produtos.Remove(excluir!);
-// Console.WriteLine($"{excluir} Excluido com sucesso!");
-
-// foreach (string item in produtos)
-//    {
-                  
-//   Console.WriteLine($"- {item}");
-//    }
-           
-
-//EXERCíCIO 10 - A partir de uma lista de produtos cadastrados, crie um programa que permita
-//localizar produtos pelo nome.
-
-// List<string> produtos = new List<string>
-// {
-// "Notebook",
-// "Mouse",
-// "Teclado",
-// "Monitor",
-// "Webcam"
-// };
-
-// Console.WriteLine("Digite o Nome do Produto para Buscar:");
-// string? Encontrar = Console.ReadLine();
-// string? resultado = produtos.Find(p => p.Equals(Encontrar!, StringComparison.OrdinalIgnoreCase));
-
-// if (resultado != null)
-// {
-//   Console.WriteLine("Produto Encontrado");
-// }
-
-// else
-// {
-//   Console.WriteLine("Produto não encontrado, tente novamente.");
-// }
-
-// // OBS:  "StringComparison.OrdinalIgnoreCase" no find sereve para ignorar se a palavra
-// // foi escrita com letra maiuscula ou minuscula
+Console.WriteLine("Digite o nome do produto que deseja excluir:")

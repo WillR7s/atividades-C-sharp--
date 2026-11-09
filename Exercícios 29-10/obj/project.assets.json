@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\willr\\OneDrive\\Área de Trabalho\\atividades-C-sharp--\\Exercícios\\Exercícios.csproj",
+      "projectUniqueName": "C:\\Users\\willr\\OneDrive\\Área de Trabalho\\atividades-C-sharp--\\Exercícios 29-10\\Exercícios.csproj",
       "projectName": "Exercícios",
-      "projectPath": "C:\\Users\\willr\\OneDrive\\Área de Trabalho\\atividades-C-sharp--\\Exercícios\\Exercícios.csproj",
+      "projectPath": "C:\\Users\\willr\\OneDrive\\Área de Trabalho\\atividades-C-sharp--\\Exercícios 29-10\\Exercícios.csproj",
       "packagesPath": "C:\\Users\\willr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\willr\\OneDrive\\Área de Trabalho\\atividades-C-sharp--\\Exercícios\\obj\\",
+      "outputPath": "C:\\Users\\willr\\OneDrive\\Área de Trabalho\\atividades-C-sharp--\\Exercícios 29-10\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\willr\\AppData\\Roaming\\NuGet\\NuGet.Config"

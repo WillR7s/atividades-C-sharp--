@@ -1,0 +1,15 @@
+C:\Users\willr\OneDrive\Área de Trabalho\atividades-C-sharp--\ExerciciosNovo\obj\Debug\net10.0\ExerciciosNovo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willr\OneDrive\Área de Trabalho\atividades-C-sharp--\ExerciciosNovo\obj\Debug\net10.0\ExerciciosNovo.AssemblyInfoInputs.cache
+C:\Users\willr\OneDrive\Área de Trabalho\atividades-C-sharp--\ExerciciosNovo\obj\Debug\net10.0\ExerciciosNovo.AssemblyInfo.cs
+C:\Users\willr\OneDrive\Área de Trabalho\atividades-C-sharp--\ExerciciosNovo\obj\Debug\net10.0\ExerciciosNovo.csproj.CoreCompileInputs.cache
+C:\Users\willr\OneDrive\Área de Trabalho\atividades-C-sharp--\ExerciciosNovo\obj\Debug\net10.0\ExerciciosNovo.sourcelink.json
+C:\Users\willr\OneDrive\Área de Trabalho\atividades-C-sharp--\ExerciciosNovo\bin\Debug\net10.0\ExerciciosNovo.exe
+C:\Users\willr\OneDrive\Área de Trabalho\atividades-C-sharp--\ExerciciosNovo\bin\Debug\net10.0\ExerciciosNovo.deps.json
+C:\Users\willr\OneDrive\Área de Trabalho\atividades-C-sharp--\ExerciciosNovo\bin\Debug\net10.0\ExerciciosNovo.runtimeconfig.json
+C:\Users\willr\OneDrive\Área de Trabalho\atividades-C-sharp--\ExerciciosNovo\bin\Debug\net10.0\ExerciciosNovo.dll
+C:\Users\willr\OneDrive\Área de Trabalho\atividades-C-sharp--\ExerciciosNovo\bin\Debug\net10.0\ExerciciosNovo.pdb
+C:\Users\willr\OneDrive\Área de Trabalho\atividades-C-sharp--\ExerciciosNovo\obj\Debug\net10.0\ExerciciosNovo.dll
+C:\Users\willr\OneDrive\Área de Trabalho\atividades-C-sharp--\ExerciciosNovo\obj\Debug\net10.0\refint\ExerciciosNovo.dll
+C:\Users\willr\OneDrive\Área de Trabalho\atividades-C-sharp--\ExerciciosNovo\obj\Debug\net10.0\ExerciciosNovo.pdb
+C:\Users\willr\OneDrive\Área de Trabalho\atividades-C-sharp--\ExerciciosNovo\obj\Debug\net10.0\ExerciciosNovo.genruntimeconfig.cache
+C:\Users\willr\OneDrive\Área de Trabalho\atividades-C-sharp--\ExerciciosNovo\obj\Debug\net10.0\ref\ExerciciosNovo.dll
