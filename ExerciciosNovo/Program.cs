@@ -18,9 +18,7 @@
 Calculadora calculadora = new Calculadora();
 calculadora.Numero1 = 30;
 calculadora.Numero2 = 65;
-calculadora.Numero3 = 30;
-calculadora.Numero4 = 65;
 calculadora.Somar();
 calculadora.Subtrair();
 calculadora.Multiplicar();
-calculadora. Dividir();
+calculadora.Dividir();

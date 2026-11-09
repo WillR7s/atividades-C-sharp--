@@ -26,7 +26,8 @@ public void Multiplicar()
 
 public void Dividir()
 {
-    int resultadoDivisao = Numero3 % Numero4;
+    double resultadoDivisao = double.Parse(Numero1.ToString()) / double.Parse(Numero2.ToString());
+
     Console.WriteLine($"O Resultado da divisão é: {resultadoDivisao}");
 }
 
