@@ -1,0 +1,15 @@
+C:\Users\willr\OneDrive\Área de Trabalho\atividades-C-sharp--\Exercicios 11-11\bin\Debug\net10.0\Exercicios 11-11.exe
+C:\Users\willr\OneDrive\Área de Trabalho\atividades-C-sharp--\Exercicios 11-11\bin\Debug\net10.0\Exercicios 11-11.deps.json
+C:\Users\willr\OneDrive\Área de Trabalho\atividades-C-sharp--\Exercicios 11-11\bin\Debug\net10.0\Exercicios 11-11.runtimeconfig.json
+C:\Users\willr\OneDrive\Área de Trabalho\atividades-C-sharp--\Exercicios 11-11\bin\Debug\net10.0\Exercicios 11-11.dll
+C:\Users\willr\OneDrive\Área de Trabalho\atividades-C-sharp--\Exercicios 11-11\bin\Debug\net10.0\Exercicios 11-11.pdb
+C:\Users\willr\OneDrive\Área de Trabalho\atividades-C-sharp--\Exercicios 11-11\obj\Debug\net10.0\Exercicios 11-11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willr\OneDrive\Área de Trabalho\atividades-C-sharp--\Exercicios 11-11\obj\Debug\net10.0\Exercicios 11-11.AssemblyInfoInputs.cache
+C:\Users\willr\OneDrive\Área de Trabalho\atividades-C-sharp--\Exercicios 11-11\obj\Debug\net10.0\Exercicios 11-11.AssemblyInfo.cs
+C:\Users\willr\OneDrive\Área de Trabalho\atividades-C-sharp--\Exercicios 11-11\obj\Debug\net10.0\Exercicios 11-11.csproj.CoreCompileInputs.cache
+C:\Users\willr\OneDrive\Área de Trabalho\atividades-C-sharp--\Exercicios 11-11\obj\Debug\net10.0\Exercicios 11-11.sourcelink.json
+C:\Users\willr\OneDrive\Área de Trabalho\atividades-C-sharp--\Exercicios 11-11\obj\Debug\net10.0\Exercicios 11-11.dll
+C:\Users\willr\OneDrive\Área de Trabalho\atividades-C-sharp--\Exercicios 11-11\obj\Debug\net10.0\refint\Exercicios 11-11.dll
+C:\Users\willr\OneDrive\Área de Trabalho\atividades-C-sharp--\Exercicios 11-11\obj\Debug\net10.0\Exercicios 11-11.pdb
+C:\Users\willr\OneDrive\Área de Trabalho\atividades-C-sharp--\Exercicios 11-11\obj\Debug\net10.0\Exercicios 11-11.genruntimeconfig.cache
+C:\Users\willr\OneDrive\Área de Trabalho\atividades-C-sharp--\Exercicios 11-11\obj\Debug\net10.0\ref\Exercicios 11-11.dll
